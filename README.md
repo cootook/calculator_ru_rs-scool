@@ -4,5 +4,5 @@
 - [видео](https://youtu.be/VHGaBc9OcXU)
 - [демо](https://irinainina.github.io/ready-projects/calculator-ru/)
 
-# https://cootook.github.io/rsschool-cv/calculator_ru_rs-scool
+# https://cootook.github.io/calculator_ru_rs-scool/
 
